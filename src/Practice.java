@@ -5,6 +5,7 @@ public class Practice {
 		// TODO Auto-generated method stub
 		System.out.println("Hello git remote!!");
 		System.out.println("Day1 completed");
+		System.out.println("Happy Learning");
 	}
 
 }
